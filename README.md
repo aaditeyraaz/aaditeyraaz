@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aaditeyraaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Rahul kumar
+- 👀 I’m interested in Java proramming
+- 🌱 I’m currently learning  Android Application
+- 💞️ I’m Currentil pursunig B.tech
+
 
 <!---
 aaditeyraaz/aaditeyraaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
