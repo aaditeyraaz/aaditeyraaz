@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahul kumar
 - 👀 I’m interested in Java proramming
 - 🌱 I’m currently learning  Android Application
-- 💞️ I’m Currentil pursunig B.tech
+- 💞️ I’m Currently pursunig B.tech
 
 
 <!---
